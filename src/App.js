@@ -7,11 +7,11 @@ import Submission from "./components/submission";
 import Instructions from "./components/instructions";
 import EditorialBoard from "./components/editorial-board";
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Header />
             <Routes>
@@ -24,7 +24,7 @@ function App() {
               {/* Add more routes as needed */}
             </Routes>
           </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
