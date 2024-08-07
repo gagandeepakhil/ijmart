@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ijmart/static/css/main.c6ae3962.css",
-    "main.js": "/ijmart/static/js/main.2c826409.js",
+    "main.js": "/ijmart/static/js/main.d557dde8.js",
     "static/media/bootstrap-icons.woff?": "/ijmart/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/ijmart/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "index.html": "/ijmart/index.html",
     "main.c6ae3962.css.map": "/ijmart/static/css/main.c6ae3962.css.map",
-    "main.2c826409.js.map": "/ijmart/static/js/main.2c826409.js.map"
+    "main.d557dde8.js.map": "/ijmart/static/js/main.d557dde8.js.map"
   },
   "entrypoints": [
     "static/css/main.c6ae3962.css",
-    "static/js/main.2c826409.js"
+    "static/js/main.d557dde8.js"
   ]
 }
